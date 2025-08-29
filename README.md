@@ -1,3 +1,4 @@
+### Думаем над головоломкой
 
 Vox Minotauri in silention, clamat sed iter non est simplex.  
 `Голос Минотавра взывает в тишину, но путь непрост.`  
