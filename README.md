@@ -16,8 +16,8 @@ Non plenum nomen quaeris, sed medietatem, clavis ad portam sex litterarum...
 | Æ   | þ   | ¥   | ø   | œ   | §   |
 
 Invenies initium in ordine rerum et finem in motu siderum.   
-`Начало ты найдешь в порядке вещей, а конец – в движении звезд.` 
-Sex litterare patent  
+`Начало ты найдешь в порядке вещей, а конец – в движении звезд.`  
+Sex litterare patent   
 `Шесть литературных знаков очевидны.` - последняя строка в таблице?  
 
 Шифр Цезаря  
